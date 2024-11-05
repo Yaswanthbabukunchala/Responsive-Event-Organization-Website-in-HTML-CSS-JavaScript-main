@@ -1,6 +1,3 @@
-Here's a sample README file for an **Event Management System** built with HTML, CSS, and JavaScript:
-
----
 
 # Event Management System
 
